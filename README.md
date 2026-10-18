@@ -46,8 +46,8 @@ with a focus on CUDA operator optimization and LLM serving.
 
 ## 📫 Contact
 
-- Email: `xxx@example.com`
-- LinkedIn: [in/xxx](https://linkedin.com/in/xxx)
+- Email: `2105230337@qq.com`
+
 
 ---
 
