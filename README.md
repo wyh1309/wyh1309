@@ -1,4 +1,4 @@
-# Hi, I'm Yihan (Frankl) Wang 👋
+# Hi, I'm Wang Yihan. (Frankl)
 
 **AI Infra / LLM Inference intern** — CUDA, distributed inference, vLLM/nano-vllm.
 
